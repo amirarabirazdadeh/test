@@ -1,6 +1,6 @@
 module.exports = async function(context) {
     return {
         status: 200,
-        body: "Hello, Amirooooooooo!\n"
+        body: "Hello, Amir Arabi!\n"
     };
 }
